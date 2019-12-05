@@ -7,5 +7,6 @@
             "email": "idontwanttoshowmyemail@someemail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "version": "1.0.0"
 }
