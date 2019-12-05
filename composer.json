@@ -1,0 +1,11 @@
+{
+    "name": "algn/dark-sky",
+    "type": "\\",
+    "authors": [
+        {
+            "name": "Alexander Granhof",
+            "email": "alexander.g737@gmail.com"
+        }
+    ],
+    "require": {}
+}
