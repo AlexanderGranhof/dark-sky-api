@@ -3,10 +3,8 @@
 namespace Anax\DarkSky;
 
 class DarkSky {
-    public function __construct() {
-        require __DIR__ . "../../../config/keys.php";
-
-        $this->key = $DARK_SKY_KEY;
+    public function __construct($key) {
+        $this->key = $key;
         $this->url = "https://api.darksky.net/forecast/";
         $this->exclude = "?exclude=minutely,hourly,alerts,flags,daily&units=si";
     }
