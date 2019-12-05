@@ -1,7 +1,5 @@
 <?php
 
-namespace Anax\DarkSky;
-
 class DarkSky {
     public function __construct($key) {
         $this->key = $key;
