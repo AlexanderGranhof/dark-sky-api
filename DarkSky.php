@@ -1,5 +1,7 @@
 <?php
 
+namespace Algn;
+
 class DarkSky {
     public function __construct($key) {
         $this->key = $key;
