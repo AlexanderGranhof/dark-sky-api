@@ -1,6 +1,6 @@
 {
     "name": "algn/dark-sky",
-    "type": "\\",
+    "type": "library",
     "authors": [
         {
             "name": "Alexander Granhof",
