@@ -1,0 +1,19 @@
+{
+    "name": "algn/weather",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alexander Granhof",
+            "email": "idontwanttoshowmyemail@someemail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "algn\\": "src/"
+        }
+    },
+    "version": "1.0.5",
+    "license": "MIT",
+    "minimum-stability": "beta"
+}
