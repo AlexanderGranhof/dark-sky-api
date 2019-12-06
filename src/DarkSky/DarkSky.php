@@ -1,6 +1,6 @@
 <?php
 
-namespace Algn;
+namespace algn\DarkSky;
 
 class DarkSky {
     public function __construct($key) {
