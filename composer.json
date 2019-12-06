@@ -8,6 +8,11 @@
         }
     ],
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "algn\\": "src/"
+        }
+    },
     "version": "1.0.3",
     "license": "MIT",
     "minimum-stability": "beta"
