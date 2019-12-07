@@ -13,7 +13,11 @@
             "algn\\": "src/"
         }
     },
-    "version": "1.0.6",
+    "require-dev": {
+        "phpunit/phpunit": "^7",
+        "php": "^7.2"
+    },
+    "description": "Test",
     "license": "MIT",
     "minimum-stability": "beta"
 }

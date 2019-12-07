@@ -1,0 +1,3 @@
+/home/alex/dbwebb-kurser/ramverk1/me/redovisa/src/Weather/test/DarkSky/DarkSkyTest.php:15	Missing class import via use statement (line '15', column '24').
+/home/alex/dbwebb-kurser/ramverk1/me/redovisa/src/Weather/test/DarkSky/DarkSkyTest.php:26	Missing class import via use statement (line '26', column '24').
+/home/alex/dbwebb-kurser/ramverk1/me/redovisa/src/Weather/test/DarkSky/DarkSkyTest.php:37	Missing class import via use statement (line '37', column '24').

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1575726777">
+  <project timestamp="1575726777">
+    <package name="algn\DarkSky">
+      <file name="/home/alex/dbwebb-kurser/ramverk1/me/redovisa/src/Weather/src/DarkSky/DarkSky.php">
+        <class name="algn\DarkSky\DarkSky" namespace="algn\DarkSky">
+          <metrics complexity="9" methods="4" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="36" coveredstatements="35" elements="40" coveredelements="38"/>
+        </class>
+        <line num="7" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="3"/>
+        <line num="9" type="stmt" count="3"/>
+        <line num="10" type="stmt" count="3"/>
+        <line num="11" type="stmt" count="3"/>
+        <line num="12" type="stmt" count="3"/>
+        <line num="14" type="method" name="week" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="16" type="stmt" count="1"/>
+        <line num="18" type="stmt" count="1"/>
+        <line num="21" type="method" name="today" visibility="public" complexity="2" crap="2.02" count="1"/>
+        <line num="23" type="stmt" count="1"/>
+        <line num="25" type="stmt" count="1"/>
+        <line num="26" type="stmt" count="0"/>
+        <line num="30" type="stmt" count="1"/>
+        <line num="31" type="stmt" count="1"/>
+        <line num="33" type="stmt" count="1"/>
+        <line num="36" type="method" name="past30Days" visibility="public" complexity="5" crap="5" count="1"/>
+        <line num="38" type="stmt" count="1"/>
+        <line num="39" type="stmt" count="1"/>
+        <line num="41" type="stmt" count="1"/>
+        <line num="43" type="stmt" count="1"/>
+        <line num="44" type="stmt" count="1"/>
+        <line num="45" type="stmt" count="1"/>
+        <line num="47" type="stmt" count="1"/>
+        <line num="48" type="stmt" count="1"/>
+        <line num="50" type="stmt" count="1"/>
+        <line num="52" type="stmt" count="1"/>
+        <line num="53" type="stmt" count="1"/>
+        <line num="54" type="stmt" count="1"/>
+        <line num="56" type="stmt" count="1"/>
+        <line num="59" type="stmt" count="1"/>
+        <line num="62" type="stmt" count="1"/>
+        <line num="63" type="stmt" count="1"/>
+        <line num="65" type="stmt" count="1"/>
+        <line num="66" type="stmt" count="1"/>
+        <line num="69" type="stmt" count="1"/>
+        <line num="71" type="stmt" count="1"/>
+        <line num="73" type="stmt" count="1"/>
+        <line num="74" type="stmt" count="1"/>
+        <line num="75" type="stmt" count="1"/>
+        <line num="78" type="stmt" count="1"/>
+        <metrics loc="80" ncloc="80" classes="1" methods="4" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="36" coveredstatements="35" elements="40" coveredelements="38"/>
+      </file>
+    </package>
+    <metrics files="1" loc="80" ncloc="80" classes="1" methods="4" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="36" coveredstatements="35" elements="40" coveredelements="38"/>
+  </project>
+</coverage>

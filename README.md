@@ -6,4 +6,4 @@ You can use the following methods to retrieve data from dark sky.
 
 `today()` - Returns weather data from today
 `week()` - Returns weather data from today and a week ahead
-`past_30_days()` - Returns data from the past month
+`past30Days()` - Returns data from the past month

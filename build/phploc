@@ -1,0 +1,59 @@
+phploc 5.0.0 by Sebastian Bergmann.
+
+Size
+  Lines of Code (LOC)                               80
+  Comment Lines of Code (CLOC)                       0 (0.00%)
+  Non-Comment Lines of Code (NCLOC)                 80 (100.00%)
+  Logical Lines of Code (LLOC)                      34 (42.50%)
+    Classes                                         33 (97.06%)
+      Average Class Length                          33
+        Minimum Class Length                        33
+        Maximum Class Length                        33
+      Average Method Length                          8
+        Minimum Method Length                        2
+        Maximum Method Length                       23
+    Functions                                        0 (0.00%)
+      Average Function Length                        0
+    Not in classes or functions                      1 (2.94%)
+
+Cyclomatic Complexity
+  Average Complexity per LLOC                     0.15
+  Average Complexity per Class                    6.00
+    Minimum Class Complexity                      6.00
+    Maximum Class Complexity                      6.00
+  Average Complexity per Method                   2.25
+    Minimum Method Complexity                     1.00
+    Maximum Method Complexity                     5.00
+
+Dependencies
+  Global Accesses                                    0
+    Global Constants                                 0 (0.00%)
+    Global Variables                                 0 (0.00%)
+    Super-Global Variables                           0 (0.00%)
+  Attribute Accesses                                10
+    Non-Static                                      10 (100.00%)
+    Static                                           0 (0.00%)
+  Method Calls                                       0
+    Non-Static                                       0 (0.00%)
+    Static                                           0 (0.00%)
+
+Structure
+  Namespaces                                         1
+  Interfaces                                         0
+  Traits                                             0
+  Classes                                            1
+    Abstract Classes                                 0 (0.00%)
+    Concrete Classes                                 1 (100.00%)
+  Methods                                            4
+    Scope
+      Non-Static Methods                             4 (100.00%)
+      Static Methods                                 0 (0.00%)
+    Visibility
+      Public Methods                                 4 (100.00%)
+      Non-Public Methods                             0 (0.00%)
+  Functions                                          0
+    Named Functions                                  0 (0.00%)
+    Anonymous Functions                              0 (0.00%)
+  Constants                                          0
+    Global Constants                                 0 (0.00%)
+    Class Constants                                  0 (0.00%)
