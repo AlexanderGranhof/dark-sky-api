@@ -9,6 +9,7 @@ jobs:
       - image: circleci/php:7.1-node-browsers
 
     steps:
+      - checkout
       - run: composer install
       - run: make install
       - run: make check
