@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/AlexanderGranhof/weather.svg?style=svg)](https://circleci.com/gh/AlexanderGranhof/weather)
 ## Usage
 
 Require the file via the namespace `algn/DarkSky` and createa new instance of the class by passing your api key in the constructor.
